@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "11a888cf7e7b73d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0f1164d18016128",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fffa5c32cd4eae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e985bf872e1bc852",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb06b8a6d4c26c89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "872f66fbb5a1bdd6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94d6c00d4392a133",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18b2ece79746fb1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ed5aabc2dbbb103",
+    "type": "split",
+    "children": [
+      {
+        "id": "0129a20b06a17bd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9a684b87b825649",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "917cb6b3d0615ed0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4df8a3271f920d12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "936c9f77f5df6ef2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0fffa5c32cd4eae8",
+  "lastOpenFiles": [
+    "Cloud Red Teaming/Azure Cloud Red Teaming/Intro to Azure.md",
+    "Cloud Red Teaming/Azure Cloud Red Teaming/Red Team Ops in Azure Cloud.md",
+    "Images/Cloud Red Teaming/Azure/resource.jpeg",
+    "Images/Cloud Red Teaming/Azure/Objects.jpeg",
+    "Images/Cloud Red Teaming/Azure",
+    "Images/Cloud Red Teaming/untitled folder",
+    "Images/Cloud Red Teaming",
+    "Images/untitled folder",
+    "Images",
+    "untitled folder",
+    "Cloud Red Teaming/Azure Cloud Red Teaming/CLI Based Enum.md",
+    "Cloud Red Teaming/Azure Cloud Red Teaming/Authentication Methods.md",
+    "Welcome.md",
+    "Cloud Red Teaming/Azure Cloud Red Teaming",
+    "Cloud Red Teaming"
+  ]
+}

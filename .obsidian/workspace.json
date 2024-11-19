@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "c06fe53954d27055",
+    "type": "split",
+    "children": [
+      {
+        "id": "59b4fc0e77e1dee1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b22605f5482df4d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4bb8cbff5dee5305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variables"
+            }
+          },
+          {
+            "id": "1ebdbc02588782f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Intro to Rust.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro to Rust"
+            }
+          },
+          {
+            "id": "86119023e39fa60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Basic Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Structure"
+            }
+          },
+          {
+            "id": "be7629400c6905b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variables"
+            }
+          },
+          {
+            "id": "d11ec5fa4769dc7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Basic Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Structure"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a625b8b40e1b5dbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0868989bb860513",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33d2f2919be895d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c03c66df9793de1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d4695067c4c27209",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6d282cab10003e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6681179b330de3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c3e5dad9cc7e16b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cloud Sec/Cloud Red Teaming/Azure Cloud Red Teaming/Intro to Azure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Intro to Azure"
+            }
+          },
+          {
+            "id": "7d8203ec66166871",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cloud Sec/Cloud Red Teaming/Azure Cloud Red Teaming/Intro to Azure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Intro to Azure"
+            }
+          },
+          {
+            "id": "7a4ea1663ac01081",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eae215b90dc9e52d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cloud Sec/Cloud Red Teaming/Azure Cloud Red Teaming/Intro to Azure.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Intro to Azure"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4bb8cbff5dee5305",
+  "lastOpenFiles": [
+    "Malware Development/Intro to Malware Development.md",
+    "Rust/Intro to Rust.md",
+    "Rust/Basic Structure.md",
+    "Rust/Variables.md",
+    "Malware Development",
+    "Cloud Sec/Cloud Red Teaming/Azure Cloud Red Teaming/Authentication Methods.md",
+    "Cloud Sec/Cloud Red Teaming/Azure Cloud Red Teaming/CLI Based Enum.md",
+    "Rust",
+    "Cloud Sec/Cloud Red Teaming/Azure Cloud Red Teaming/Intro to Azure.md",
+    "Cloud Sec/Cloud Red Teaming/Azure Cloud Red Teaming/Red Team Ops in Azure Cloud.md",
+    "Cloud Sec/Images/Cloud Red Teaming/Azure/credentials.png",
+    "Cloud Sec/Images/Cloud Red Teaming/Azure/role_assignment.png",
+    "Cloud Sec/Images/Cloud Red Teaming/Azure/azure.png",
+    "Cloud Sec/Images/Cloud Red Teaming/Azure/cloud_space.png",
+    "Cloud Sec/Welcome.md",
+    "Untitled.canvas"
+  ]
+}
