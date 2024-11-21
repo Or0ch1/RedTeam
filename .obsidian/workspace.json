@@ -179,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Sec/Cloud Red Teaming/Azure Cloud Red Teaming/Intro to Azure.md",
+                "file": "Rust/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intro to Azure"
+              "title": "Outgoing links from Variables"
             }
           },
           {
@@ -206,21 +206,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Sec/Cloud Red Teaming/Azure Cloud Red Teaming/Intro to Azure.md"
+                "file": "Rust/Variables.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro to Azure"
+              "title": "Outline of Variables"
+            }
+          },
+          {
+            "id": "505f2900eaf8cb86",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -229,7 +240,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bb8cbff5dee5305",
+  "active": "505f2900eaf8cb86",
   "lastOpenFiles": [
     "Malware Development/Intro to Malware Development.md",
     "Rust/Intro to Rust.md",
